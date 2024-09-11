@@ -1,6 +1,6 @@
 # 📱 Scriptable Projects
 
-This repository contains **15 awesome scripts** for the Scriptable app on iOS, allowing you to automate various tasks and enhance your home screen with custom widgets. Each script is built using JavaScript and works seamlessly within the Scriptable app.
+This repository contains **13 awesome scripts** for the Scriptable app on iOS, allowing you to automate various tasks and enhance your home screen with custom widgets. Each script is built using JavaScript and works seamlessly within the Scriptable app.
 
 ## Table of Contents
 - [Installation](#installation)
@@ -18,8 +18,6 @@ This repository contains **15 awesome scripts** for the Scriptable app on iOS, a
   - [11. To-Do List with Priority Levels](#11-to-do-list-with-priority-levels)
   - [12. Sunrise/Sunset Tracker](#12-sunrise-sunset-tracker)
   - [13. Flight Status Tracker](#13-flight-status-tracker)
-  - [14. Minimalist Calendar](#14-minimalist-calendar)
-  - [15. Expense Tracker](#15-expense-tracker)
 - [Usage](#usage)
 - [License](#license)
 
